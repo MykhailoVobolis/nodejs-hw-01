@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Bertha Purdy I",
+    "phone": "348-722-9914 x8365",
+    "email": "Stacey.Mohr@hotmail.com",
+    "job": "Direct Infrastructure Coordinator"
+  },
+  {
+    "name": "Kristie Herman",
+    "phone": "1-269-304-2526",
+    "email": "Laverna29@hotmail.com",
+    "job": "Senior Identity Administrator"
+  },
+  {
+    "name": "Damon Tillman",
+    "phone": "1-801-295-6280",
+    "email": "Sage_Rodriguez37@hotmail.com",
+    "job": "Chief Interactions Specialist"
+  }
+]
